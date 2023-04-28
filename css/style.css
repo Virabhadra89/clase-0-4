@@ -1,0 +1,16 @@
+
+/*Modificaciones de la tabla*/
+table {background-color: blueviolet;
+}
+/*Modificacion del Titulo de Horarios de Atencion*/
+h1 { font-family: Arial, Helvetica, sans-serif; 
+} 
+
+/*esto modifica el texto de la columna DIAS*/
+.dias { font-size: 25px; 
+    font-family: Arial, Helvetica, sans-serif; 
+    color: chartreuse;
+}
+
+/*esto modifica el texto de la columna Horarios*/
+.horarios { color:rgb(247, 132, 90)}
